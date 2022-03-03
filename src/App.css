@@ -7,6 +7,7 @@ body {
   position: relative;
   min-height: 100vh;
   height: 100%;
+  font-family: 'Press Start 2P', cursive;
 }
 
 #root {
