@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/borimusik/precache-manifest.08ae954050a995ae75737c1a332d92b3.js"
+  "/borimusik/precache-manifest.ba961972922076fc8859d78dfbf813bc.js"
 );
 
 workbox.clientsClaim();
