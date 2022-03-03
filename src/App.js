@@ -1,6 +1,5 @@
 import React from "react";
 import {
-  BrowserRouter as Router,
   Routes,
   Route,
   Link
@@ -20,30 +19,26 @@ import "./App.css";
 const App = () => {
   return (
     <>
-      <Router>
-        <div>
-          <nav class="">
-            <ul>
-              <li>
-                <Link to="/">Home</Link>
-              </li>
-              <li>
-                <Link to="/about">About</Link>
-              </li>
-            </ul>
-          </nav>
+      <div>
+        <nav className="">
+          <ul>
+            <li>
+              <Link to="/">Home</Link>
+            </li>
+            <li>
+              <Link to="/about">About</Link>
+            </li>
+          </ul>
+        </nav>
 
-          {/* A <Switch> looks through its children <Route>s and
-              renders the first one that matches the current URL. */}
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/links" element={<Links />} />
-            <Route path="/about" element={<About />} />
-          </Routes>
-        </div>
-      </Router>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/links" element={<Links />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+      </div>
       <footer>
-        <div class="social">
+        <div className="social">
           <ul>
             <li>
               <a href="https://open.spotify.com/artist/4o3bLvdMFH6MiBvdfrGVY2?si=s42N6ka8Q8OUtT0l_rUgsg">

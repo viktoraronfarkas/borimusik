@@ -1,9 +1,9 @@
 import React from "react";
 
 const About = () => (
-  <div class="page about">
-    <h2 class="item-title">About me</h2>
-    <section class="section introduction">
+  <div className="page about">
+    <h2 className="item-title">About me</h2>
+    <section className="section introduction">
       <p>
         Hi, I'm Viktor, a 23-year-old hungarian techno artist, who lives in Vienna currently. I've been involved in
         music since I was little, I started playing the piano in elementary school, then moved on to the guitar which I
@@ -22,7 +22,7 @@ const About = () => (
         my <a href="https://open.spotify.com/artist/4o3bLvdMFH6MiBvdfrGVY2?si=s42N6ka8Q8OUtT0l_rUgsg">Spotify</a>
         &nbsp;and <a href="https://soundcloud.com/borimusik">Soundcloud</a> &lt;3
       </p>
-      <p class="align-right">
+      <p className="align-right">
         Love,<br />Viktor
       </p>
     </section>

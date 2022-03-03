@@ -2,17 +2,18 @@ import React from "react";
 import avatar from '../assets/img/avatar.jpg';
 
 const Home = () => (
-  <div class="home page">
-    <img class="avatar" src={avatar} alt='Profile picture'/>
-    <div class="title">
+  <div className="home page">
+    <img className="avatar" src={avatar} alt='Avatar'/>
+    <div className="title">
       <h2>borimusik</h2>
       <p>Welcome to my page!</p>
     </div>
-    <section class="radar section">
-      <h2 class="item-title">release radar</h2>
-      <div class='embedContainer'>
+    <section className="radar section">
+      <h2 className="item-title">release radar</h2>
+      <div className='embedContainer'>
         <iframe
-          class="embedSong"
+          title="Lost in the warehouse on Soundcloud"
+          className="embedSong"
           scrolling="no"
           frameBorder="no"
           allow="autoplay"
@@ -21,9 +22,10 @@ const Home = () => (
         <p>'lost in the warehouse' on Soundcloud</p>
       </div>
 
-      <div class='embedContainer'>
+      <div className='embedContainer'>
         <iframe
-          class="embedSong"
+          title="Physical on Spotify"
+          className="embedSong"
           src="https://open.spotify.com/embed/track/2lVfCOgs1vThuQH7f9e0JS?utm_source=generator"
           width="100%"
           height="80"
@@ -36,6 +38,7 @@ const Home = () => (
 
       <div className='embedContainer'>
         <iframe
+          title="Expand / relax on Spotify"
           className="embedSong"
           src="https://open.spotify.com/embed/track/7aoeEnXp0adQCu2kiz5dB5?utm_source=generator"
           width="100%"
@@ -48,10 +51,11 @@ const Home = () => (
       </div>
     </section>
 
-    <section class="section inspiration">
+    <section className="section inspiration">
       <h2 className="item-title">where I get inspired from</h2>
-      <div class="embedContainer">
+      <div className="embedContainer">
         <iframe
+          title="Hardtech / Gabber playlist on Spotify"
           className="embedPlaylist"
           src="https://open.spotify.com/embed/playlist/7ebWyU3C6ggfdADos7hmxv?utm_source=generator" width="100%"
           height="380" frameBorder="0" allowFullScreen=""
