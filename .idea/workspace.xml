@@ -10,6 +10,12 @@
       <change afterPath="$PROJECT_DIR$/../fh/ccl-3/wheezer/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fh/ccl-3/wheezer/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gameover/.idea/gameover.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/Links.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Links.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fh/ssc/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fh/ssc/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fh/ssc/test-project-ssc" beforeDir="false" />
     </list>
@@ -33,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/icons" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -41,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/icons" />
       <recent name="$PROJECT_DIR$/src/assets/img" />
     </key>
   </component>
@@ -59,7 +66,7 @@
       <updated>1646156233915</updated>
       <workItem from="1646156235170" duration="6998000" />
       <workItem from="1646170720275" duration="2279000" />
-      <workItem from="1646238394294" duration="156000" />
+      <workItem from="1646238394294" duration="8869000" />
     </task>
     <servers />
   </component>
