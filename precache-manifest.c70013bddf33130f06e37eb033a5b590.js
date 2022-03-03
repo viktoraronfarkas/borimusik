@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "72ef53dc076f94f9ebd2",
+    "revision": "549ec6bded794da037ca",
     "url": "/borimusik/static/css/main.538c23d5.chunk.css"
   },
   {
-    "revision": "72ef53dc076f94f9ebd2",
-    "url": "/borimusik/static/js/main.72ef53dc.chunk.js"
+    "revision": "549ec6bded794da037ca",
+    "url": "/borimusik/static/js/main.549ec6bd.chunk.js"
   },
   {
     "revision": "206e060bd7d3afd2158d",
     "url": "/borimusik/static/js/1.206e060b.chunk.js"
   },
   {
-    "revision": "6bcf9ad3968255679117",
+    "revision": "5366ec7b73812f41f2b2",
     "url": "/borimusik/static/css/2.0c8210d3.chunk.css"
   },
   {
-    "revision": "6bcf9ad3968255679117",
-    "url": "/borimusik/static/js/2.6bcf9ad3.chunk.js"
+    "revision": "5366ec7b73812f41f2b2",
+    "url": "/borimusik/static/js/2.5366ec7b.chunk.js"
   },
   {
     "revision": "f8db819c8f3be49a062e",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/borimusik/static/media/spotify.22350618.svg"
   },
   {
-    "revision": "91c64d65a3fcc01b28946296cc495bbb",
+    "revision": "937b5ffd9d5694342773487f09aca0f9",
     "url": "/borimusik/index.html"
   }
 ];
