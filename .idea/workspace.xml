@@ -10,11 +10,7 @@
       <change afterPath="$PROJECT_DIR$/../fh/ccl-3/wheezer/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fh/ccl-3/wheezer/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gameover/.idea/gameover.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fh/ssc/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fh/ssc/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fh/ssc/test-project-ssc" beforeDir="false" />
     </list>
@@ -65,7 +61,7 @@
       <updated>1646156233915</updated>
       <workItem from="1646156235170" duration="6998000" />
       <workItem from="1646170720275" duration="2279000" />
-      <workItem from="1646238394294" duration="12714000" />
+      <workItem from="1646238394294" duration="13036000" />
     </task>
     <servers />
   </component>
