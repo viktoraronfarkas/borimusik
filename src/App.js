@@ -21,8 +21,6 @@ import "./App.css";
 const App = () => {
   //Visitor count from 4th March, 2022
   countapi.visits('global').then((result) => {
-    //subtract test visits
-    result.value -= 14;
     console.log('Visitor count: ' + result.value);
   });
 
