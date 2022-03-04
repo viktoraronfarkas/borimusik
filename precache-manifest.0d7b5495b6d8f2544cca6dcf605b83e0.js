@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "41325f68acba52211a5a",
+    "revision": "b9aa7b735bbe47af99ab",
     "url": "/borimusik/static/css/main.a14362da.chunk.css"
   },
   {
-    "revision": "41325f68acba52211a5a",
-    "url": "/borimusik/static/js/main.41325f68.chunk.js"
+    "revision": "b9aa7b735bbe47af99ab",
+    "url": "/borimusik/static/js/main.b9aa7b73.chunk.js"
   },
   {
     "revision": "7f8c91ddc4b58ecb5b87",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/borimusik/static/media/spotify.22350618.svg"
   },
   {
-    "revision": "d4f614589bde5a903e3a4fce4307a743",
+    "revision": "089a58a8ca50db4bf969bde3eadae25c",
     "url": "/borimusik/index.html"
   }
 ];
