@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/borimusik/static/media/spotify.22350618.svg"
   },
   {
-    "revision": "704969cb416508fd765ca31aa036c62a",
+    "revision": "a1073c222917fbfd0ae00a20510b5329",
     "url": "/borimusik/index.html"
   }
 ];
