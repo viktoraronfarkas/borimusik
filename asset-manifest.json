@@ -1,7 +1,7 @@
 {
   "main.css": "/borimusik/static/css/main.a14362da.chunk.css",
-  "main.js": "/borimusik/static/js/main.18bedf32.chunk.js",
-  "main.js.map": "/borimusik/static/js/main.18bedf32.chunk.js.map",
+  "main.js": "/borimusik/static/js/main.9187fa9a.chunk.js",
+  "main.js.map": "/borimusik/static/js/main.9187fa9a.chunk.js.map",
   "static/js/1.7f8c91dd.chunk.js": "/borimusik/static/js/1.7f8c91dd.chunk.js",
   "static/js/1.7f8c91dd.chunk.js.map": "/borimusik/static/js/1.7f8c91dd.chunk.js.map",
   "static/css/2.59e9c5d6.chunk.css": "/borimusik/static/css/2.59e9c5d6.chunk.css",
@@ -16,6 +16,6 @@
   "static/css/main.a14362da.chunk.css.map": "/borimusik/static/css/main.a14362da.chunk.css.map",
   "static/css/2.59e9c5d6.chunk.css.map": "/borimusik/static/css/2.59e9c5d6.chunk.css.map",
   "index.html": "/borimusik/index.html",
-  "precache-manifest.bc576bba8835ca2f1c56e1136575d70b.js": "/borimusik/precache-manifest.bc576bba8835ca2f1c56e1136575d70b.js",
+  "precache-manifest.26513e7aaf209e38037abaefd5918a94.js": "/borimusik/precache-manifest.26513e7aaf209e38037abaefd5918a94.js",
   "service-worker.js": "/borimusik/service-worker.js"
 }
