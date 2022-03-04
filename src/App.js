@@ -5,6 +5,8 @@ import {
   Link
 } from "react-router-dom";
 
+import countapi from 'countapi-js';
+
 import About from "./routes/About";
 import Home from "./routes/Home";
 import Links from "./routes/Links";
@@ -17,6 +19,12 @@ import "nes.css/css/nes.min.css";
 import "./App.css";
 
 const App = () => {
+  //Visitor count from 4th March, 2022
+  countapi.visits('global').then((result) => {
+    //subtract test visits
+    console.log('Visitor count: ' + result.value - 11);
+  });
+
   return (
     <>
       <div>

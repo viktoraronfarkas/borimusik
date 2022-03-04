@@ -11,7 +11,9 @@
       <change afterPath="$PROJECT_DIR$/../fh/ccl-3/wheezer/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gameover/.idea/gameover.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fh/ssc/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fh/ssc/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fh/ssc/test-project-ssc" beforeDir="false" />
     </list>
@@ -62,11 +64,23 @@
       <updated>1646156233915</updated>
       <workItem from="1646156235170" duration="6998000" />
       <workItem from="1646170720275" duration="2279000" />
-      <workItem from="1646238394294" duration="13421000" />
+      <workItem from="1646238394294" duration="13759000" />
+      <workItem from="1646378054978" duration="1393000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/routes/Home.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
