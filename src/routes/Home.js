@@ -12,6 +12,28 @@ const Home = () => (
       <h2 className="item-title">release radar</h2>
       <div className='embedContainer'>
         <iframe
+          title="underminer on Soundcloud"
+          className="embedSong"
+          scrolling="no"
+          frameBorder="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1265301964&color=%231a1a1a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+        </iframe>
+        <p>'underminer' on Soundcloud</p>
+      </div>
+      <div className='embedContainer'>
+        <iframe
+          title="🥺 on Soundcloud"
+          className="embedSong"
+          scrolling="no"
+          frameBorder="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1248705850&color=%231a1a1a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+        </iframe>
+        <p>'🥺' on Soundcloud</p>
+      </div>
+      <div className='embedContainer'>
+        <iframe
           title="Lost in the warehouse on Soundcloud"
           className="embedSong"
           scrolling="no"
