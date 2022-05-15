@@ -24,6 +24,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/App.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/routes/Home.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/routes/About.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="25nI4cRr7lRERyWxpqeovqExaCZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -68,7 +78,9 @@
       <workItem from="1646380047400" duration="720000" />
       <workItem from="1646513497533" duration="785000" />
       <workItem from="1647166869574" duration="81000" />
-      <workItem from="1652199063461" duration="239000" />
+      <workItem from="1652199063461" duration="1791000" />
+      <workItem from="1652360288931" duration="582000" />
+      <workItem from="1652624755209" duration="374000" />
     </task>
     <servers />
   </component>
